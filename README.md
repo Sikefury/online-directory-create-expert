@@ -1,27 +1,32 @@
-# Online Directory Create Expert Skill (Claude + Codex)
+# Online Directory Create Expert Skill for Claude and Codex 🚀
 
-Build a defensible online directory in any niche and any country or region. This skill is AI-agent optimized, context-healthy, and designed to move you from niche discovery to a handoff package that is ready for website creation.
+Build an online directory in any niche and any country or region. This AI‑agent‑optimized skill takes you from niche discovery to a clean, verified, enriched dataset that’s ready for website creation — no guesswork, no fluff.
 
-## What This Skill Does
-- Finds and validates a niche using deep research when the user provides only a country and/or region.
-- Collects data if none is provided.
-- Cleans, verifies, and enriches listings into a structured dataset.
-- Produces a handoff package for website creation (website build is intentionally out of scope).
+## Who This Is For 🎯
+- Founders and builders creating a niche directory or marketplace.
+- Analysts who need a repeatable directory data pipeline.
+- Teams that want a geo‑agnostic and niche‑agnostic workflow.
 
-## Key Features
-- Niche-agnostic and geo-agnostic.
-- Evidence-based verification with registry, website, phone, and marketplace support.
-- Context-health safeguards and batch protocols.
+## What You Get ✅
+- A full workflow from niche discovery to a handoff package that actually ships.
+- Evidence‑based verification (registry, website, phone, marketplace).
+- Clean schema, batch protocols, and context‑health safeguards.
 - Optional Crawl4AI guidance (not required).
 
-## Quick Start (Minimal Input)
+## How It Works (High Level) ⚙️
+1. Discover and validate a niche using deep research.
+2. Collect data if none is provided.
+3. Clean, verify, and enrich listings into a structured dataset.
+4. Produce a handoff package for website creation (website build is out of scope).
+
+## Quick Start (Minimal Input) ⚡
 If you only know the country or region, the agent will:
 1. Propose niches using deep research.
 2. Build a Niche Brief (keywords, trust signals, data sources).
 3. Collect a sample dataset.
 4. Run the validation workflow.
 
-## Install Packages
+## Install Packages 📦
 Download the prebuilt packages from this repo.
 
 ### Claude
@@ -34,15 +39,15 @@ Download the prebuilt packages from this repo.
 2. Copy `SKILL.md` into your Codex skills directory:
 `%USERPROFILE%\.codex\skills\online-directory-create-expert\SKILL.md`
 
-## Skill File
-- `SKILL.md` contains the complete workflow and prompt pack.
-
-## Outputs (Handoff Package)
+## Outputs (Handoff Package) 🧳
 - `cleaned.csv`
 - `verified_candidates.csv`
 - `inventory.csv`, `images.csv`, `features.csv`, `service_areas.csv` (or explicit skip notes)
 - `manual_review.csv`
 - Batch logs and changelog notes
 
+## Skill File 🧠
+- `SKILL.md` contains the complete workflow and prompt pack.
+
 ## SEO Keywords
-AI directory builder, online directory skill, niche research workflow, geo-agnostic data enrichment, Claude skill, Codex skill, directory data pipeline, registry-based verification.
+AI directory builder, online directory skill, niche discovery workflow, geo‑agnostic data enrichment, Claude skill, Codex skill, directory data pipeline, registry‑based verification, business listings dataset, directory website data, AI marketplace dataset, directory research workflow.
