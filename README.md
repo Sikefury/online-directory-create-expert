@@ -1,6 +1,13 @@
 # Online Directory Create Expert Skill for Claude and Codex 🚀
 
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
+![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)
+![Downloads](https://img.shields.io/badge/Downloads-Package-yellow.svg)
+
 Build an online directory in any niche and any country or region. This AI‑agent‑optimized skill takes you from niche discovery to a clean, verified, enriched dataset that’s ready for website creation — no guesswork, no fluff.
+
+## Why This Exists
+Most directory projects fail at the data stage. This skill focuses on the hardest part: acquiring, validating, and enriching listings into a dataset that is good enough to ship.
 
 ## Who This Is For 🎯
 - Founders and builders creating a niche directory or marketplace.
@@ -18,6 +25,13 @@ Build an online directory in any niche and any country or region. This AI‑agen
 2. Collect data if none is provided.
 3. Clean, verify, and enrich listings into a structured dataset.
 4. Produce a handoff package for website creation (website build is out of scope).
+
+## Example Output (Tiny Sample)
+```csv
+business_id,name,region,country,verified_match,confidence
+abc123,Example Co,Ontario,CA,yes,0.91
+def456,Sample Services,London,UK,yes,0.83
+```
 
 ## Quick Start (Minimal Input) ⚡
 If you only know the country or region, the agent will:
@@ -48,6 +62,13 @@ Download the prebuilt packages from this repo.
 
 ## Skill File 🧠
 - `SKILL.md` contains the complete workflow and prompt pack.
+
+## FAQ
+**Does this work in my country or region?**  
+Yes. The workflow is geo‑agnostic and supports registry, phone, and low‑web evidence.
+
+**Do I need a dataset first?**  
+No. If you provide only a country or region, the agent will collect a starter dataset.
 
 ## SEO Keywords
 AI directory builder, online directory skill, niche discovery workflow, geo‑agnostic data enrichment, Claude skill, Codex skill, directory data pipeline, registry‑based verification, business listings dataset, directory website data, AI marketplace dataset, directory research workflow.
