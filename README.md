@@ -2,9 +2,11 @@
 
 ![Hero](assets/main.png)
 
-![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
-![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)
-![Downloads](https://img.shields.io/badge/Downloads-Package-yellow.svg)
+![MIT License](https://img.shields.io/github/license/hoomanjaka/online-directory-create-expert)
+![Release](https://img.shields.io/github/v/release/hoomanjaka/online-directory-create-expert?display_name=tag)
+![Downloads](https://img.shields.io/github/downloads/hoomanjaka/online-directory-create-expert/total)
+
+Live demo: https://hoomanjaka.github.io/online-directory-create-expert/
 
 Build an online directory in any niche and any country or region. This AI‑agent‑optimized skill takes you from niche discovery to a clean, verified, enriched dataset that’s ready for website creation — no guesswork, no fluff.
 
