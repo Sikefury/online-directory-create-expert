@@ -6,7 +6,7 @@
 ![Release](https://img.shields.io/github/v/release/hoomanjaka/online-directory-create-expert?display_name=tag)
 ![Downloads](https://img.shields.io/github/downloads/hoomanjaka/online-directory-create-expert/total)
 
-Live demo: https://hoomanjaka.github.io/online-directory-create-expert/
+Project page (overview + workflow): https://hoomanjaka.github.io/online-directory-create-expert/
 
 Build an online directory in any niche and any country or region. This AI‑agent‑optimized skill takes you from niche discovery to a clean, verified, enriched dataset that’s ready for website creation — no guesswork, no fluff.
 
@@ -63,6 +63,10 @@ Download the prebuilt packages from this repo.
 1. Unzip `packages/online-directory-create-expert-codex.zip`
 2. Copy `SKILL.md` into your Codex skills directory:
 `%USERPROFILE%\.codex\skills\online-directory-create-expert\SKILL.md`
+
+### Direct Downloads
+- Claude ZIP: https://github.com/hoomanjaka/online-directory-create-expert/releases/latest/download/online-directory-create-expert-claude.zip
+- Codex ZIP: https://github.com/hoomanjaka/online-directory-create-expert/releases/latest/download/online-directory-create-expert-codex.zip
 
 ## Outputs (Handoff Package) 🧳
 - `cleaned.csv`
