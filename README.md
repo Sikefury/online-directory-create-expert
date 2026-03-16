@@ -20,11 +20,18 @@ Most directory projects fail at the data stage. This skill focuses on the hardes
 - Clean schema, batch protocols, and context‑health safeguards.
 - Optional Crawl4AI guidance (not required).
 
+## Use Cases
+- Build a verified business listings dataset for a niche directory.
+- Create a geo‑agnostic directory data pipeline for multiple regions.
+- Compile a registry‑verified marketplace dataset for SEO landing pages.
+
 ## How It Works (High Level) ⚙️
 1. Discover and validate a niche using deep research.
 2. Collect data if none is provided.
 3. Clean, verify, and enrich listings into a structured dataset.
 4. Produce a handoff package for website creation (website build is out of scope).
+
+![Workflow](assets/workflow.svg)
 
 ## Example Output (Tiny Sample)
 ```csv
